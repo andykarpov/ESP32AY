@@ -71,34 +71,34 @@
         "clearance|47500000|107600000|7dd80703-f25a-4512-8889-85008be1e943|a490aeae-ded1-4133-97a1-3b26cb61cdc6",
         "clearance|47500000|107600000|c27902d8-35d9-45b9-9594-00c5516f2568|a490aeae-ded1-4133-97a1-3b26cb61cdc6",
         "clearance|47500000|96400000|ab7a7e3b-cf69-41ba-a797-5741eea4180e|6d9443b8-3f58-4a3d-baad-774d307c2ca7",
-        "courtyards_overlap|22220001|55200001|545ad4da-1c17-45d2-b0a2-18f68fecd6f9|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
-        "courtyards_overlap|22220001|73700001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|847ba9f3-08d7-410f-94e4-6c1e53b0a342",
-        "courtyards_overlap|27330001|59300001|583d76a6-9746-4637-a9f8-a84269676af2|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
-        "courtyards_overlap|27330001|77790001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|29eeffb7-a5cf-46f2-aeee-e1408c70bd2d",
-        "courtyards_overlap|27630001|54010001|a8392aca-39e0-4d78-a7f2-cafcba9dedf6|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
-        "courtyards_overlap|27630001|72530001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|df2b2556-36fb-4f54-a1d3-fe2cfaeb4eb8",
-        "courtyards_overlap|30180001|51180001|1594eb23-c63d-42b3-9383-8650cbdbf87a|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
-        "courtyards_overlap|30180001|69690001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|55711c44-b695-4024-bb7e-cf131c552bd8",
-        "courtyards_overlap|30380001|57030001|e55d9c88-aa30-4399-8f64-10833d26fc43|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
-        "courtyards_overlap|30380001|75550001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|be542b62-3992-4656-a181-4de7f1438642",
-        "courtyards_overlap|35370001|69990001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|8c4b4db4-8d70-486d-a41f-db77e6ba78ce",
-        "courtyards_overlap|35370001|75550001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|7727f0f3-6932-4c0e-b1d6-26c2934a30b8",
-        "courtyards_overlap|39270001|69990001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|78db176d-a255-4b6f-a656-4907bcd5cd78",
-        "courtyards_overlap|39270001|75550001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|9afb2845-273a-42d7-bc29-b2e580cc5f91",
-        "courtyards_overlap|45110001|55090001|0500ad88-2f44-436c-8f16-9fd5b4251f98|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
+        "courtyards_overlap|22390001|55620001|545ad4da-1c17-45d2-b0a2-18f68fecd6f9|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
+        "courtyards_overlap|22390001|74120001|847ba9f3-08d7-410f-94e4-6c1e53b0a342|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|27500001|59730001|583d76a6-9746-4637-a9f8-a84269676af2|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
+        "courtyards_overlap|27500001|78220001|29eeffb7-a5cf-46f2-aeee-e1408c70bd2d|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|27893401|72700001|df2b2556-36fb-4f54-a1d3-fe2cfaeb4eb8|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|28060001|54180001|a8392aca-39e0-4d78-a7f2-cafcba9dedf6|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
+        "courtyards_overlap|30550001|57460001|e55d9c88-aa30-4399-8f64-10833d26fc43|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
+        "courtyards_overlap|30550001|75980001|be542b62-3992-4656-a181-4de7f1438642|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|30610001|51350001|1594eb23-c63d-42b3-9383-8650cbdbf87a|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
+        "courtyards_overlap|30610001|69860001|55711c44-b695-4024-bb7e-cf131c552bd8|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|35540001|70420001|8c4b4db4-8d70-486d-a41f-db77e6ba78ce|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|35540001|75980001|7727f0f3-6932-4c0e-b1d6-26c2934a30b8|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|39440001|70420001|78db176d-a255-4b6f-a656-4907bcd5cd78|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|39440001|75980001|9afb2845-273a-42d7-bc29-b2e580cc5f91|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
         "courtyards_overlap|45130001|69550001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|dff9cd07-6f82-4914-8055-2621bef14c3d",
-        "courtyards_overlap|45180001|76990001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|e0bd5146-d43b-4543-93d9-e5b395615c7c",
-        "courtyards_overlap|49200001|55090001|046a1e36-aa4a-4419-9687-9eb544329e59|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
+        "courtyards_overlap|45280001|55510001|0500ad88-2f44-436c-8f16-9fd5b4251f98|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
+        "courtyards_overlap|45600001|77160001|e0bd5146-d43b-4543-93d9-e5b395615c7c|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|49370001|55510001|046a1e36-aa4a-4419-9687-9eb544329e59|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
         "courtyards_overlap|51162501|76000001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|527ca108-3d88-4a1c-9fe6-2dd3a5716922",
         "courtyards_overlap|53929999|76000001|527ca108-3d88-4a1c-9fe6-2dd3a5716922|dff9cd07-6f82-4914-8055-2621bef14c3d",
-        "courtyards_overlap|54480001|71640001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|a3b8d54d-90fa-4c3a-9bde-9e82fbcce0b7",
-        "courtyards_overlap|60340001|77810001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|a7d4cb08-2e64-4174-a620-c32f06414a15",
-        "courtyards_overlap|60350001|59280001|65184208-c0f1-4808-9530-3b34ac0e366b|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
-        "courtyards_overlap|60890001|71480001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|1d5cd59f-b162-47a2-a67f-2899571c1532",
+        "courtyards_overlap|54900001|71810001|a3b8d54d-90fa-4c3a-9bde-9e82fbcce0b7|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|60510001|78240001|a7d4cb08-2e64-4174-a620-c32f06414a15|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|60520001|59710001|65184208-c0f1-4808-9530-3b34ac0e366b|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95",
+        "courtyards_overlap|61060001|71900001|1d5cd59f-b162-47a2-a67f-2899571c1532|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
         "courtyards_overlap|63810001|51530001|ed7ffccb-7dbf-4fb5-b1a3-caab8fcc9c95|ef6b26ec-a4f8-4dcb-96d3-2859d0e7b045",
-        "courtyards_overlap|64160001|79020001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|60b3de11-c928-45be-a8e5-77e388ea4e9d",
         "courtyards_overlap|64450001|70220001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|ff5d8c5f-17a4-4982-adb1-b641785fa097",
-        "courtyards_overlap|69700001|79020001|0233c6a7-dc41-48bc-ad52-c1e1303154c3|6a168876-b2d7-4d62-bf57-6b6e8b31e406",
+        "courtyards_overlap|64580001|79190001|60b3de11-c928-45be-a8e5-77e388ea4e9d|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
+        "courtyards_overlap|70120001|79190001|6a168876-b2d7-4d62-bf57-6b6e8b31e406|0233c6a7-dc41-48bc-ad52-c1e1303154c3",
         "footprint_type_mismatch|36000000|117729000|b84ced46-9da5-441b-a318-1db7f4d9ecd0|00000000-0000-0000-0000-000000000000",
         "footprint_type_mismatch|47500000|58000000|1309e850-84df-4da6-b2bf-cd06dbf41dd1|00000000-0000-0000-0000-000000000000",
         "footprint_type_mismatch|59029600|120370060|46561812-a346-4973-843d-f1968a70a7f3|00000000-0000-0000-0000-000000000000",
@@ -593,7 +593,7 @@
       "specctra_dsn": "",
       "step": "../../../../../Users/spawn/Desktop/MegaAYpcb.STEP",
       "svg": "",
-      "vrml": "../../../../../Users/spawn/Desktop/MegaAY.wrl"
+      "vrml": "../../../../../Documents/Projects/Retrocomp/ZX-Spectrum/ESP32AY/Case/ESP32AY.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -621,7 +621,7 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Value",
           "name": "Value",
           "show": true
@@ -630,10 +630,10 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
           "show": true
@@ -649,11 +649,203 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Part Number",
+          "name": "Arrow Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Price/Stock",
+          "name": "Arrow Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Comment",
+          "name": "Comment",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Configuration_Pole-Throw",
+          "name": "Configuration_Pole-Throw",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Contact_Current_Rating",
+          "name": "Contact_Current_Rating",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "EU_RoHS_Compliance",
+          "name": "EU_RoHS_Compliance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKGE_HEIGHT",
+          "name": "MAXIMUM_PACKGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Testing Part Number",
+          "name": "Mouser Testing Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Testing Price/Stock",
+          "name": "Mouser Testing Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_FARNELL",
+          "name": "OC_FARNELL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_NEWARK",
+          "name": "OC_NEWARK",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGE",
+          "name": "PACKAGE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SNAPEDA_PN",
+          "name": "SNAPEDA_PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER",
+          "name": "SUPPLIER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
