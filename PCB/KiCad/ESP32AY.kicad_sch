@@ -19425,7 +19425,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7360-38_Kemet-E"
+		(property "Footprint" "footprints:CP_EIA-7343-31_Kemet-D-uni"
 			(at 207.01 241.3 0)
 			(effects
 				(font
@@ -21584,7 +21584,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7360-38_Kemet-E"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder"
 			(at 372.11 162.56 0)
 			(effects
 				(font
@@ -23562,7 +23562,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7360-38_Kemet-E"
+		(property "Footprint" "footprints:CP_EIA-7343-31_Kemet-D-uni"
 			(at 246.38 241.3 0)
 			(effects
 				(font
@@ -30655,7 +30655,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7360-38_Kemet-E"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder"
 			(at 392.43 162.56 0)
 			(effects
 				(font
