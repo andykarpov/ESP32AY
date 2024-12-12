@@ -1,4 +1,7 @@
-# ESP32AY multiformat Turbo Sound player
+# ESP32AY multiformat Turbo Sound player 
+
+## (archived outdated fork, please use the original repo for fresh sources including the PCB)
+
 ESP32 based AY Turbo Sound multiformat player
 
 ## Fast flash firmware avaliable on [Alex Spawn OTA web page](https://ota.alexspawn.ru)
